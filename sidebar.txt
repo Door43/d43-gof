@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/gof|Ethnologue data]]
 
-
 **Resources**
 
   * [[gof:obs|Open Bible Stories (gof)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:gof:obs:status}}
